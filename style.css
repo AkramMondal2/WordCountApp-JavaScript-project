@@ -1,0 +1,31 @@
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: #0989ea;
+}
+
+p{
+    color: #0989ea;
+    font-size: 25px;
+    font-weight: 600;
+}
+div{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+textarea{
+    border: 2px solid #0989ea;
+    border-radius: 10px;
+    outline: none;
+    font-size: 18px;
+    padding: 10px 2px;
+}
+
